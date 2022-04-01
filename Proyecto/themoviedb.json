@@ -1,0 +1,409 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 634649,
+            "original_language": "en",
+            "original_title": "Spider-Man: No Way Home",
+            "overview": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
+            "popularity": 10552.154,
+            "poster_path": "/osYbtvqjMUhEXgkuFJOsRYVpq6N.jpg",
+            "release_date": "2021-12-15",
+            "title": "Spider-Man: No Way Home",
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 9461
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5P8SmMzSNYikXpxil6BYzJ16611.jpg",
+            "genre_ids": [
+                80,
+                9648,
+                53
+            ],
+            "id": 414906,
+            "original_language": "en",
+            "original_title": "The Batman",
+            "overview": "Cuando un asesino se dirige a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas envía Batman a una investigación en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupción que durante mucho tiempo han asolado Gotham City.",
+            "popularity": 3956.45,
+            "poster_path": "/pOaKyhMwALpCTg07eQQu0SQCbL9.jpg",
+            "release_date": "2022-03-01",
+            "title": "The Batman",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 1712
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tAztR7AXEesMQAAi5ncFPSZtYlI.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 833425,
+            "original_language": "en",
+            "original_title": "No Exit",
+            "overview": "Darby Thorne, una joven que va a una emergencia familiar, queda atrapada en una ventisca y se refugia en un área de descanso de la autopista con unos desconocidos. Cuando encuentra a una chica secuestrada en una furgoneta, se ve en una aterradora lucha a vida o muerte para descubrir quién es el secuestrador.",
+            "popularity": 3434.009,
+            "poster_path": "/6bis845x7oW3yz0OqgA9cf2JnPf.jpg",
+            "release_date": "2022-02-25",
+            "title": "En la tormenta",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 207
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 568124,
+            "original_language": "en",
+            "original_title": "Encanto",
+            "overview": "\"Encanto\" relata la historia de los Madrigal, una familia extraordinaria que vive en una casa mágica de un pueblo vibrante en las montañas de Colombia escondidas en un “Encanto”. La magia del Encanto ha bendecido a cada niño de la familia con un don único, desde la superfuerza hasta el poder de sanar. A todos, excepto Mirabel, quien desea ser tan especial como el resto de su familia.  Pero cuando la magia que rodea al Encanto está en peligro, Mirabel decide que ella, la única Madrigal sin ningún tipo de don único, puede ser la única esperanza de su excepcional familia.",
+            "popularity": 3275.706,
+            "poster_path": "/d0ezQ1Jz0lpNsX1skEmIvqRL7mN.jpg",
+            "release_date": "2021-11-24",
+            "title": "Encanto",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 5270
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2hGjmgZrS1nlsEl5PZorn7EsmzH.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 823625,
+            "original_language": "en",
+            "original_title": "Blacklight",
+            "overview": "Travis Block, un agente del gobierno en la sombra que se especializa en eliminar operativos cuyas coberturas han sido expuestas, descubre una conspiración mortal dentro de sus propias filas que alcanza los niveles más altos del poder.",
+            "popularity": 2871.459,
+            "poster_path": "/5mnKPiUc9o4kIPzKrL9vYf46KJ7.jpg",
+            "release_date": "2022-02-10",
+            "title": "Luz negra",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 120
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7CamWBejQ9JQOO5vAghZfrFpMXY.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 928381,
+            "original_language": "fr",
+            "original_title": "Sans répit",
+            "overview": "Después de hacer lo indecible para encubrir un accidente, un policía corrupto pierde el control de su vida cuando comienza a recibir amenazas de un misterioso testigo.",
+            "popularity": 2371.051,
+            "poster_path": "/1RbvTtVXwmjJqB9cZXBtM5uz5ou.jpg",
+            "release_date": "2022-02-25",
+            "title": "Sin respiro",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 152
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pnZ9NMxRqbcJ2dPNROIoregruv5.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 753232,
+            "original_language": "en",
+            "original_title": "The Commando",
+            "overview": "Un agente de élite de la DEA regresa a casa después de una misión fallida cuando su familia hace un descubrimiento inesperado en su casa: un alijo de dinero por valor de $ 3 millones. Pronto se enfrentan al peligro y la amenaza de un criminal recién liberado y su equipo, que harán lo que sea necesario para recuperar el dinero, incluido el secuestro de las hijas del agente. Hay mucho en juego y hay vidas en peligro en esta batalla cara a cara, ya que el agente no se detiene ante nada para proteger a su familia contra los criminales hambrientos de dinero.",
+            "popularity": 2143.007,
+            "poster_path": "/pSh8MyYu5CmfyWEHzv8FEARH2zq.jpg",
+            "release_date": "2022-01-07",
+            "title": "The Commando",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                14
+            ],
+            "id": 508947,
+            "original_language": "en",
+            "original_title": "Turning Red",
+            "overview": "Mei Lee, una niña de 13 años un poco rara pero segura de sí misma, se debate entre ser la hija obediente que su madre quiere que sea y el caos propio de la adolescencia. Ming, su protectora y ligeramente exigente madre, no se separa nunca de ella lo que es una situación poco deseable para una adolescente. Y por si los cambios en su vida y en su cuerpo no fueran suficientes, cada vez que se emociona demasiado (lo que le ocurre prácticamente todo el tiempo), se convierte en un panda rojo gigante.",
+            "popularity": 1994.835,
+            "poster_path": "/hUupIkIKPpNLYniPGRxRpEQFrX3.jpg",
+            "release_date": "2022-03-10",
+            "title": "Red",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 289
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 646385,
+            "original_language": "en",
+            "original_title": "Scream",
+            "overview": "Una nueva entrega de la saga de terror 'Scream' que seguirá a una mujer que regresa a su ciudad natal para intentar descubrir quién ha estado cometiendo una serie de crímenes atroces.",
+            "popularity": 1992.407,
+            "poster_path": "/cIgmdAhesIqn2ykJfbNFMQYdxkO.jpg",
+            "release_date": "2022-01-12",
+            "title": "Scream",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 904
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4OTYefcAlaShn6TGVK33UxLW9R7.jpg",
+            "genre_ids": [
+                28,
+                12,
+                53,
+                10752
+            ],
+            "id": 476669,
+            "original_language": "en",
+            "original_title": "The King's Man",
+            "overview": "Cuando un grupo formado por los tiranos y las mentes criminales más malvadas de la historia se une para desencadenar una guerra que matará a millones de personas, un hombre tendrá que luchar a contrarreloj para detenerlos. Tercera entrega de la saga 'Kingsman', ambientada muchos años antes de las anteriores y explicando el origen de la agencia.",
+            "popularity": 1977.675,
+            "poster_path": "/lFu7pTdf4gXABogCmPE0cBkVQZu.jpg",
+            "release_date": "2021-12-22",
+            "title": "The King's Man: La primera misión",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1927
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 580489,
+            "original_language": "en",
+            "original_title": "Venom: Let There Be Carnage",
+            "overview": "Eddie Brock  y su simbionte Venom todavía están intentando descubrir cómo vivir juntos cuando un preso que está en el corredor de la muerte se infecta con un simbionte propio.",
+            "popularity": 1741.853,
+            "poster_path": "/b0j9rHYpRML7dKm5xw9e97HTDJF.jpg",
+            "release_date": "2021-09-30",
+            "title": "Venom: Habrá Matanza",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 6591
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eG0oOQVsniPAuecPzDD1B1gnYWy.jpg",
+            "genre_ids": [
+                16,
+                35,
+                12,
+                10751
+            ],
+            "id": 774825,
+            "original_language": "en",
+            "original_title": "The Ice Age Adventures of Buck Wild",
+            "overview": "Continúa contando las hilarantes aventuras de uno de los mamíferos favoritos de la prehistoria. Tras un distanciamiento con su hermana mayor, Ellie, los hermanos Crash y Eddie parten a la búsqueda de un lugar propio, pero rápidamente acaban atrapados en una caverna subterránea. El aventurero Buck Wild acudirá a su rescate y juntos, tendrán que enfrentarse a los dinosaurios del Mundo Perdido.",
+            "popularity": 1698.878,
+            "poster_path": "/iDah4ZcDX3F316LcLlmNNAzsRqF.jpg",
+            "release_date": "2022-01-28",
+            "title": "Ice Age: Las aventuras de Buck",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 779
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qBLEWvJNVsehJkEJqIigPsWyBse.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                35,
+                12
+            ],
+            "id": 585083,
+            "original_language": "en",
+            "original_title": "Hotel Transylvania: Transformania",
+            "overview": "Drac y la pandilla vuelven, como nunca los habías visto antes en Hotel Transilvania: Transformanía. Volveremos a encontrarnos con nuestros monstruos favoritos en una aventura completamente nueva en la que Drac se enfrentará a una de las situaciones más aterradoras vividas hasta el momento. Cuando el misterioso invento de Van Helsing, el \"Rayo Monstrificador\", se vuelve totalmente fuera de control, Drac y sus monstruosos amigos se transforman en humanos, ¡y Johnny se convierte en un monstruo!",
+            "popularity": 1695.319,
+            "poster_path": "/pwSlzCAynIF6aEP7oxWddo7Kng2.jpg",
+            "release_date": "2022-02-25",
+            "title": "Hotel Transilvania: Transformanía",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 374
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
+            "genre_ids": [
+                878
+            ],
+            "id": 524434,
+            "original_language": "en",
+            "original_title": "Eternals",
+            "overview": "Hace millones de años, los seres cósmicos conocidos como los Celestiales comenzaron a experimentar genéticamente con los humanos. Su intención era crear individuos superpoderosos que hicieran únicamente el bien, pero algo salió mal y aparecieron los Desviantes, destruyendo y creando el caos a su paso. Ambas razas se han enfrentado en una eterna lucha de poder a lo largo de la historia. En medio de esta guerra, Ikaris y Sersi tratarán de vivir su propia historia de amor.",
+            "popularity": 1693.349,
+            "poster_path": "/wPZ5n5LlzFFdO5lFJbi2qmaE6w7.jpg",
+            "release_date": "2021-11-03",
+            "title": "Eternals",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 4822
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g0YNGpmlXsgHfhGnJz3c5uyzZ1B.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 597208,
+            "original_language": "en",
+            "original_title": "Nightmare Alley",
+            "overview": "Un buscavidas se compincha con una pitonisa para engañar a la gente y conseguir dinero... Remake del film \"El callejón de las almas perdidas\" (Nightmare Alley) de 1947.",
+            "popularity": 1685.195,
+            "poster_path": "/vH5rh852MByFzEwEIQ7Us7dJhy1.jpg",
+            "release_date": "2021-12-02",
+            "title": "El callejón de las almas perdidas",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 1008
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dK12GIdhGP6NPGFssK2Fh265jyr.jpg",
+            "genre_ids": [
+                28,
+                35,
+                80,
+                53
+            ],
+            "id": 512195,
+            "original_language": "en",
+            "original_title": "Red Notice",
+            "overview": "Cuando la Interpol envía una \"Alerta roja\", significa que los departamentos de Policía de todo el mundo deben estar alerta para capturar a los criminales más buscados. Todas las alarmas saltan cuando un temerario robo une al mejor agente del FBI (Johnson) con dos criminales rivales entre sí (Gadot & Reynolds). Una coincidencia que hará que suceda lo impredecible.",
+            "popularity": 1679.793,
+            "poster_path": "/odBUpjZGxY3y7FBo5NBtEYGJf5r.jpg",
+            "release_date": "2021-11-04",
+            "title": "Alerta roja",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 3231
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i5dUmY2xRzgkmjHJYKNj8kPX1Xx.jpg",
+            "genre_ids": [
+                37,
+                28
+            ],
+            "id": 928999,
+            "original_language": "en",
+            "original_title": "Desperate Riders",
+            "overview": "Después de que Kansas Red rescata al joven Billy de un tiroteo en un juego de cartas, el niño le pide ayuda a Red para proteger a su familia del forajido Thorn, que acaba de secuestrar a la madre de Billy, Carol. Mientras Red y Billy cabalgan para rescatar a Carol, se encuentran con la hermosa y dura Leslie, que logró escapar de los hombres de Thorn. Los tres corren para detener la boda de Thorn con Carol con las armas encendidas, pero ¿ella quiere ser rescatada?",
+            "popularity": 1673.014,
+            "poster_path": "/7pYYGm1dWZGkbJuhcuaHD6nE6k7.jpg",
+            "release_date": "2022-02-25",
+            "title": "Desperate Riders",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 15
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cugmVwK0N4aAcLibelKN5jWDXSx.jpg",
+            "genre_ids": [
+                16,
+                28,
+                14,
+                12
+            ],
+            "id": 768744,
+            "original_language": "ja",
+            "original_title": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション",
+            "overview": "Deku es perseguido por la policía, acusado de asesinato en masa, mientras que el resto de super héroes han de enfrentarse a un incidente que afecta a todo el mundo. Tercera película de la serie anime \"My Hero Academia\".",
+            "popularity": 1658.699,
+            "poster_path": "/aj46sbSKF8ek0cLBW1En921NXWu.jpg",
+            "release_date": "2021-08-06",
+            "title": "My Hero Academia: Misión mundial de héroes",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 110
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wMUPT99gw6IB9OVvC46rF8wHIRt.jpg",
+            "genre_ids": [
+                28,
+                80,
+                14
+            ],
+            "id": 890656,
+            "original_language": "en",
+            "original_title": "Fistful of Vengeance",
+            "overview": "Kai Jin, un joven chef de Chinatown en la actual San Francisco, se ve envuelto en la búsqueda de la Tríada China de poderes ancestrales mortales conocidos como el \"Wu Xing\".",
+            "popularity": 1633.09,
+            "poster_path": "/1pOdSYjmnX61Nh9sMyztwnPJe98.jpg",
+            "release_date": "2022-02-17",
+            "title": "Venganza a golpes",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aTSA5zMWlVFTYBIZxTCMbLkfOtb.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 632727,
+            "original_language": "en",
+            "original_title": "Texas Chainsaw Massacre",
+            "overview": "Melody (Sarah Yarkin), su hermana adolescente Lila (Elsie Fisher) y sus amigos Dante (Jacob Latimore) y Ruth (Nell Hudson) viajan al remoto pueblo de Harlow (Texas) para montar un negocio muy idealista. Pero su sueño se convierte en una auténtica pesadilla cuando molestan sin querer a Leatherface, el desquiciado asesino en serie cuyo sangriento legado sigue acechando a los habitantes de la zona, entre ellos Sally Hardesty (Olwen Fouéré), la única superviviente de su masacre de 1973, decidida a vengarse a muerte.",
+            "popularity": 1618.177,
+            "poster_path": "/2VnuxwgdMBEgVO7VKvkW6nmYfaM.jpg",
+            "release_date": "2022-02-18",
+            "title": "La Matanza de Texas",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 551
+        }
+    ],
+    "total_pages": 32702,
+    "total_results": 654021
+}
